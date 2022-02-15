@@ -1,15 +1,18 @@
-### Hi there 👋
+## Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=Enzo-zsh&color=dc143c)
 
-**Enzo-zsh/Enzo-zsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1c1c1c?style=for-the-badge&logo=twitter)](https://twitter.com/enzo_zsh)
+![GitHub](https://img.shields.io/github/followers/Enzo-zsh?color=1c1c1c&label=follow&logo=github&style=for-the-badge)
+
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on pearOS project
 - 🌱 I’m currently learning CSS, HTML, VBS, Bash
 - 👯 I’m looking to collaborate on pearOS and many project
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
+- 🌎 I live in France
 - ⚡ Fun fact: Linux fan-boy
 
 ## About me 
