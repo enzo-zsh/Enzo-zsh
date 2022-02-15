@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🌎 I live in France
 - ⚡ Fun fact: Linux fan-boy
 
-## About me 
+## About my GitHub 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-zsh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
