@@ -9,7 +9,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on pearOS project (Community/unofficial developer)
-- 🌱 I’m currently learning CSS, HTML, VBS, Bash
+- 🌱 I’m currently learning CSS, HTML, VBS, Bash, Python
 - 👯 I’m looking to collaborate on pearOS and many project
 - 😄 Pronouns: He/Him
 - 🌎 I live in France
