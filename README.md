@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Enzo-zsh&color=dc143c)
 
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1c1c1c?style=for-the-badge&logo=twitter)](https://twitter.com/enzo_zsh)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1c1c1c?style=for-the-badge&logo=twitter)](https://twitter.com/enzo_lzrt)
 ![GitHub](https://img.shields.io/github/followers/Enzo-zsh?color=1c1c1c&label=follow&logo=github&style=for-the-badge)
 
 
