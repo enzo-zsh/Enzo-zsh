@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 
 ## About my GitHub 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-zsh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enzo-zsh&show_icons=true&theme=synthwave)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Enzo-zsh&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Enzo-zsh&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Enzo-zsh&theme=tokyonight&utcOffset=8)
 
 ## My languages :
 
