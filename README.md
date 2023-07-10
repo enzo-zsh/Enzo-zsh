@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on pearOS and many project
 - 😄 Pronouns: He/Him
 - 🌎 I live in France
-- ⚡ Fun fact: Linux/Windows/macOS enthusiast
+- ⚡ Fun fact: Linux/Windows/macOS and Tech enthusiast
 
 ## About my GitHub 
 
