@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ## Support me :
-<p><a href="https://www.buymeacoffee.com/USER"> <center><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Enzo Lazzarato" /></a></p></center> 
+<p><a href="https://www.buymeacoffee.com/USER"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Enzo lazzarato" /></a></p><br><br> 
 
