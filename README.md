@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, i'm Enzo Lazzarato 👋</h1>
+<h1 align="center">Hello there, i'm enzo_zsh 👋</h1>
 
 ![](https://komarev.com/ghpvc/?username=Enzo-zsh&color=dc143c)
 
