@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - 🌎 I live in France
 - ⚡ Fun fact: Linux/Windows/macOS and Tech enthusiast
 
+<img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif" align="center" width="5000">
+
+
 ## About my GitHub 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Enzo-zsh&theme=tokyonight)
