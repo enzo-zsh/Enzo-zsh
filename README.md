@@ -5,9 +5,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1c1c1c?style=for-the-badge&logo=twitter)](https://twitter.com/enzo_lzrt)
 ![GitHub](https://img.shields.io/github/followers/Enzo-zsh?color=1c1c1c&label=follow&logo=github&style=for-the-badge)
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on iWebAppStore (A PWA AppStore for iOS) and iTweakHub repos
 - 🌱 I’m currently learning CSS, HTML, VBS, Bash, Python
 - 👯 I’m looking to collaborate on iTweakHub and many project
