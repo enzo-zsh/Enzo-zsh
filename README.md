@@ -5,12 +5,12 @@
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1c1c1c?style=for-the-badge&logo=twitter)](https://twitter.com/enzo_lzrt)
 ![GitHub](https://img.shields.io/github/followers/Enzo-zsh?color=1c1c1c&label=follow&logo=github&style=for-the-badge)
 
-- 🔭 I’m currently working on iWebAppStore (A PWA AppStore for iOS) and iTweakHub repos
+- 🔭 I’m currently working on iWebAppStore (A PWA AppStore for iOS/iPadOS) and some little projects.
 - 🌱 I’m currently learning CSS, HTML, VBS, Bash, Python
-- 👯 I’m looking to collaborate on iTweakHub and many project
+- 👯 I’m looking to collaborate on manyvFOSS project
 - 😄 Pronouns: He/Him
 - 🌎 I live in France
-- ⚡ Fun fact: Linux/Windows/macOS and Tech enthusiast
+- ⚡ About : Linux/BSD/macOS and Tech enthusiast
 
 <img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif" align="center" width="5000">
 
