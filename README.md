@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, i'm enzo_zsh 👋</h1>
+<h1 align="center">Hello there, i'm nzo👋</h1>
 
 ![](https://komarev.com/ghpvc/?username=Enzo-zsh&color=dc143c)
 
@@ -6,11 +6,10 @@
 ![GitHub](https://img.shields.io/github/followers/Enzo-zsh?color=1c1c1c&label=follow&logo=github&style=for-the-badge)
 
 - 🔭 I’m currently working on iWebAppStore (A PWA AppStore for iOS/iPadOS) and some little projects.
-- 🌱 I’m currently learning CSS, HTML, VBS, Bash, Python
-- 👯 I’m looking to collaborate on manyvFOSS project
+- 👯 I’m looking to collaborate on many FOSS project
 - 😄 Pronouns: He/Him
 - 🌎 I live in France
-- ⚡ About : Linux/BSD/macOS and Tech enthusiast
+- ⚡ About : Linux/BSD/macOS/Unix-like and Tech enthusiast
 
 <img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif" align="center" width="5000">
 
