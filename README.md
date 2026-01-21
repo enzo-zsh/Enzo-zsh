@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, i'm nzo👋</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=00F73B&center=true&width=435&lines=Hello+world!%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=Enzo-zsh&color=dc143c)
 
