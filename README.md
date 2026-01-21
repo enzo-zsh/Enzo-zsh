@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=00F73B&center=true&width=435&lines=Hello+world!%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=00F73B&width=435&lines=Hello+world!%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+GitHub+profile!" alt="Typing SVG" /></a> </div>
+
 
 ![](https://komarev.com/ghpvc/?username=Enzo-zsh&color=dc143c)
 
